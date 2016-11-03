@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Together they went on a big journey trough land to find other animals who felt that they didnt belong.
+=======
+Together they went on a big journey trough land to find other animals.
+Suddenly they were attacked by wolves!
+>>>>>>> 89b0ef436da20769da3c7738a586369097a8b350

@@ -1,3 +1,10 @@
 In the tree next to Edwards lived a normal, average-sized squirrel named Ben who always made fun of Edward because of his abnormal size.
 
+<<<<<<< HEAD
 Bens pet is small and yellow.
+=======
+
+In the tree next to Edwards lived a normal, average-sized squirrel who always made fun of Edward because of his abnormal size.
+The villains pet is small and yellow.
+It's evil but happy!
+>>>>>>> 89b0ef436da20769da3c7738a586369097a8b350
